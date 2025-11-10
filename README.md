@@ -4,4 +4,4 @@ This study builds on prior work linking MPST to erastin resistance. Using pan-ca
 ## Data
 The raw and processed DepMap datasets exceed GitHub’s size limit.
 Download from: [Google Drive link]
-Place in `data/raw/` before running scripts.
+Place in `data/raw/` and 'data/processed' before running scripts.
