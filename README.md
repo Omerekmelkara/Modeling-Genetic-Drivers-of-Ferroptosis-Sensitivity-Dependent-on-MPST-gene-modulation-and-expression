@@ -1,4 +1,4 @@
-# Modeling-Genetic-Drivers-of-Ferroptosis-Sensitivity-Dependent-on-MPST-gene-modulation-and-expression
+# Localized Regression and Random Forest Modelling Expose Possible Conditional MPST and Copy Number Drivers of Ferroptosis Sensitivity
 This study builds on prior work linking MPST to erastin resistance. Using pan-cancer data, regression and random forest models show that MPST conditionally drives ferroptosis resistance, strongest in AIFM2-high and copy-number–gain contexts, revealing a nonlinear effect modulated by both positive and negative genetic interactions.
 
 ## Data
